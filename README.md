@@ -18,6 +18,8 @@ Code for a paper "[PSYDIAL: Personality-based Synthetic Dialogue Generation usin
   This file contains persona information from PersonaChat dataset. It is utilized in `STEP 2 (Profile Selecting)`.
 
 ## Code
+:exclamation: You need an Open AI API key to execute the pipeline. :exclamation:
+
 * `main_pipeline.py`   
   The main pipeline through STEP 1 to a part of STEP 4 is implemented in this file.
 * `main_filtering.py`   
