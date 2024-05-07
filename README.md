@@ -2,12 +2,6 @@
 Code for a paper "[PSYDIAL: Personality-based Synthetic Dialogue Generation using Large Language Models](https://arxiv.org/abs/2404.00930)" accpeted in LREC-COLING 2024 Main
 
 
-## Data files
-* `5_personality.csv`     
-  This file contains descriptions from 5 dimensions of Big five personality. It is utilized to set the personality of two speakers in `STEP 1 (Personality Setting)`.
-* `personaChat_personality_origin.csv`     
-  This file contains persona information from PersonaChat dataset. It is utilized in `STEP 2 (Profile Selecting)`.
-
 ## Personality-based Synthetic Dialogue Generation Pipeline
 ![](overview.png)
 * STEP 1 - Personality Setting
@@ -15,6 +9,13 @@ Code for a paper "[PSYDIAL: Personality-based Synthetic Dialogue Generation usin
 * STEP 3 - Dialogue Generation
 * STEP 4 - Dialogue Filtering
 * STEP 5 - Dialogue Regeneration
+
+
+## Data files
+* `5_personality.csv`     
+  This file contains descriptions from 5 dimensions of Big five personality. It is utilized to set the personality of two speakers in `STEP 1 (Personality Setting)`.
+* `personaChat_personality_origin.csv`     
+  This file contains persona information from PersonaChat dataset. It is utilized in `STEP 2 (Profile Selecting)`.
 
 ## Code
 * `main_pipeline.py`   
