@@ -46,7 +46,7 @@ DATA_DIR = args.data_dir
 def read_dataset():
     print('reading data...')
     
-    df = pd.read_csv('../personaChat_personality_origin.csv')
+    df = pd.read_csv('personaChat_personality_origin.csv')
     persona = df[df['split']=='train']['personality']
 
     return persona
