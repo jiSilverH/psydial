@@ -3,9 +3,9 @@ Code for a paper "[PSYDIAL: Personality-based Synthetic Dialogue Generation usin
 
 
 ## Data files
-* 5_personality.csv  
+* `5_personality.csv`     
   This file contains descriptions from 5 dimensions of Big five personality. It is utilized to set the personality of two speakers in `STEP 1 (Personality Setting)`.
-* personaChat_personality_origin.csv  
+* `personaChat_personality_origin.csv`     
   This file contains persona information from PersonaChat dataset. It is utilized in `STEP 2 (Profile Selecting)`.
 
 ## Personality-based Synthetic Dialogue Generation Pipeline
