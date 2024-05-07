@@ -1,0 +1,51 @@
+personality,key,sentence
+EXT,positive,I am the life of the party.
+EXT,positive,I feel comfortable around people.
+EXT,positive,I start conversations.
+EXT,positive,I talk to a lot of different people at parties.
+EXT,positive,I don't mind being the center of attention.
+EXT,negative,I don't talk a lot.
+EXT,negative,I keep in the background.
+EXT,negative,I have little to say.
+EXT,negative,I don't like to draw attention to myself.
+EXT,negative,I Am quiet around strangers.
+AGR,positive,I am interested in people.
+AGR,positive,I sympathize with others' feelings.
+AGR,positive,I have a soft heart.
+AGR,positive,I take time out for others.
+AGR,positive,I feel others' emotions.
+AGR,positive,I make people feel at ease.
+AGR,negative,I am not interested in other people's problems.
+AGR,negative,I insult people.
+AGR,negative,I am not really interested in others.
+AGR,negative,I feel little concern for others.
+CSN,positive,I am always prepared.
+CSN,positive,I pay attention to details.
+CSN,positive,I get chores done right away.
+CSN,positive,I like order.
+CSN,positive,I follow a schedule.
+CSN,positive,I am exacting in my work.
+CSN,negative,I leave my belongings around.
+CSN,negative,I make a mess of things.
+CSN,negative,I often forget to put things back in their proper place.
+CSN,negative,I shirk my duties.
+EST,positive,I am relaxed most of the time.
+EST,positive,I seldom feel blue.
+EST,negative,I get stressed out easily.
+EST,negative,I worry about things.
+EST,negative,I am easily disturbed.
+EST,negative,I get upset easily.
+EST,negative,I change my mood a lot.
+EST,negative,I have frequent mood swings.
+EST,negative,I get irritated easily.
+EST,negative,I often feel blue.
+OPN,positive,I have a rich vocabulary.
+OPN,positive,I have a vivid imagination.
+OPN,positive,I have excellent ideas.
+OPN,positive,I am quick to understand things.
+OPN,positive,I use difficult words.
+OPN,positive,I am full of ideas.
+OPN,positive,I spend time reflecting on things.
+OPN,negative,I have difficulty understanding abstract ideas.
+OPN,negative,I am not interested in abstract ideas.
+OPN,negative,I do not have a good imagination.
